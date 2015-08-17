@@ -18,7 +18,7 @@ background-size:cover;
 <p><h1 style="color:skyblue">Register</h1></p>
 <p>Please Sign Up and Create an Account for you to become a member</p>
 
-<form action="adelfaye.html" method="post">
+<form method="post">
 <hr>
 <h2>First Name</h2>  <input type="text" name="first_name"/>
 <p>
@@ -119,7 +119,7 @@ Say something about yourself...
 <p>
 <input type="submit" name="submit" value="Register"/>
 <input type="reset" name="reset" value="Reset"/>
-<a href="adelfaye.html" ><input type="button" name="ok" value="Ok"/></a>
+<input type="button" name="ok" value="Ok"/>
 </form>
 </body>
 </html>
